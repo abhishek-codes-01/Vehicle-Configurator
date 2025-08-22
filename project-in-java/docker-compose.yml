@@ -1,0 +1,62 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: vconf-mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: mahesh
+      MYSQL_DATABASE: project1
+    ports:
+      - "3307:3306" # host:container
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-pmahesh"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  backend-service:
+    build: ./backend/vehicle-details-service
+    container_name: vconf-backend-service
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/project1
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: mahesh
+    ports:
+      - "8082:8082"
+
+  backend-main:
+    build: ./backend/Vehicle_Configurator-main
+    container_name: vconf-backend-main
+    depends_on:
+      mysql:
+        condition: service_healthy
+      backend-service:
+        condition: service_started
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/project1
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: mahesh
+    ports:
+      - "8081:8081"
+
+  frontend:
+    build: ./frontend
+    container_name: vconf-frontend
+    depends_on:
+      backend-main:
+        condition: service_started
+    ports:
+      - "8080:80"
+    environment:
+      REACT_APP_BACKEND_URL: http://backend-main:8081
+
+volumes:
+  mysql_data:

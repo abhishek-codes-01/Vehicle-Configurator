@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\domain\\entities\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\domain\\entities\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\vehicle_configurator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\vehicle_configurator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|p:\\vehicle_configurator_project\\project-in-dotnet\\vehicle_configurator_backend\\vehicle_configurator\\infrastructure\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A239D964-4F6E-4CD9-A988-C326867210AC}|Vehicle_Configurator\\Vehicle_Configurator.csproj|solutionrelative:vehicle_configurator\\infrastructure\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceHeader.cs",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Domain\\Entities\\InvoiceHeader.cs",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\Domain\\Entities\\InvoiceHeader.cs",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Domain\\Entities\\InvoiceHeader.cs",
+              "RelativeToolTip": "Vehicle_Configurator\\Domain\\Entities\\InvoiceHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:56:27.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle_Configurator",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Vehicle_Configurator.csproj",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\Vehicle_Configurator.csproj",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Vehicle_Configurator.csproj",
+              "RelativeToolTip": "Vehicle_Configurator\\Vehicle_Configurator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T12:05:58.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Infrastructure\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\Infrastructure\\Repositories\\AppDbContext.cs",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Infrastructure\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "Vehicle_Configurator\\Infrastructure\\Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:59:58.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\appsettings.json",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\appsettings.json",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\appsettings.json",
+              "RelativeToolTip": "Vehicle_Configurator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T10:36:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\appsettings.Development.json",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\appsettings.Development.json",
+              "RelativeToolTip": "Vehicle_Configurator\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T12:08:22.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\Domain\\Entities\\User.cs",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Vehicle_Configurator\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:44:44.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\Properties\\launchSettings.json",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Vehicle_Configurator\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T12:08:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicle_Configurator\\Program.cs",
+              "ToolTip": "P:\\Vehicle_Configurator_Project\\project-in-dotnet\\Vehicle_Configurator_Backend\\Vehicle_Configurator\\Program.cs",
+              "RelativeToolTip": "Vehicle_Configurator\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:50:01.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

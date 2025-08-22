@@ -1,0 +1,6 @@
+# Vehicle_Configurator
+Project Description:
+
+Vehicle Configurator (V-CONF) is a full-stack web-based B2B portal designed for rental car companies to configure and purchase vehicles online. The application is built using Spring Boot 3 with a microservices architecture on the backend and React with Next.js on the frontend. Users can log in, select a vehicle segment (e.g., SUV, Sedan), choose a manufacturer and model, and specify the quantity with built-in validation rules. They can then view default configurations or customize the vehicle's interior, exterior, and accessories.
+
+The system calculates pricing based on selections, generates professional PDF invoices, and sends them via email to customers. It uses MySQL 8 with Spring Data JPA for data management, JWT-based authentication (without refresh tokens), and Lombok to reduce boilerplate code. Spring Profiles manage environment-specific configs, and Docker is used to containerize the application. Microservices communicate using RestTemplate, and aspects like logging are handled using Spring AOP with @Before and @After. Testing is supported with the Mockito framework. The frontend offers a fast, responsive UI and interacts securely with backend REST APIs.

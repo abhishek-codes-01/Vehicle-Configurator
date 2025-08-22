@@ -1,0 +1,627 @@
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\appsettings.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.endpoints.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.exe
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.deps.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.runtimeconfig.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.pdb
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.AssemblyReference.cache
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfoInputs.cache
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfo.cs
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.CoreCompileInputs.cache
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\scopedcss\bundle\Vehicle_Configurator.styles.css
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_.F1EE4479.Up2Date
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\refint\Vehicle_Configurator.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.pdb
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.genruntimeconfig.cache
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\ref\Vehicle_Configurator.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp_Owner\source\repos\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\appsettings.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.endpoints.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\libwkhtmltox.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.exe
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\libwkhtmltox.a
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\wkhtmltox.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.deps.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.runtimeconfig.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.pdb
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\BaselineTypeDiscovery.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\DinkToPdf.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\MailKit.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\MimeKit.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.AssemblyReference.cache
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfoInputs.cache
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfo.cs
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.CoreCompileInputs.cache
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\scopedcss\bundle\Vehicle_Configurator.styles.css
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.build.Vehicle_Configurator.props
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Vehicle_Configurator.props
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Vehicle_Configurator.props
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_.F1EE4479.Up2Date
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\refint\Vehicle_Configurator.dll
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.pdb
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.genruntimeconfig.cache
+C:\Users\Secretor\Downloads\Vehicle_Configurator\Vehicle_Configurator\Vehicle_Configurator\obj\Debug\net9.0\ref\Vehicle_Configurator.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\appsettings.Development.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\appsettings.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.runtime.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.endpoints.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\libwkhtmltox.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.exe
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\libwkhtmltox.a
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\wkhtmltox.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.deps.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.runtimeconfig.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.pdb
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BaselineTypeDiscovery.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\DinkToPdf.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Humanizer.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MailKit.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MimeKit.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MySqlConnector.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.CodeDom.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.AssemblyReference.cache
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfoInputs.cache
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfo.cs
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.CoreCompileInputs.cache
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cs
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cache
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.sourcelink.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\scopedcss\bundle\Vehicle_Configurator.styles.css
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.development.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.build.Vehicle_Configurator.props
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Vehicle_Configurator.props
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Vehicle_Configurator.props
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_.F1EE4479.Up2Date
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\refint\Vehicle_Configurator.dll
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.pdb
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.genruntimeconfig.cache
+E:\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\ref\Vehicle_Configurator.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\appsettings.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\libwkhtmltox.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.runtime.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.endpoints.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.exe
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\libwkhtmltox.a
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\wkhtmltox.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.deps.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.runtimeconfig.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.pdb
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BaselineTypeDiscovery.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\DinkToPdf.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Humanizer.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MailKit.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MimeKit.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.AssemblyReference.cache
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfoInputs.cache
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfo.cs
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.CoreCompileInputs.cache
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.sourcelink.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\scopedcss\bundle\Vehicle_Configurator.styles.css
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.build.Vehicle_Configurator.props
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Vehicle_Configurator.props
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Vehicle_Configurator.props
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_.F1EE4479.Up2Date
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\refint\Vehicle_Configurator.dll
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.pdb
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.genruntimeconfig.cache
+C:\Users\mahes\Downloads\Vehicle_Configurator\Dot net\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\ref\Vehicle_Configurator.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\appsettings.Development.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\libwkhtmltox.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\appsettings.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.runtime.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.staticwebassets.endpoints.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.exe
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\libwkhtmltox.a
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\bin\Debug\net9.0\wkhtmltox.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.deps.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.runtimeconfig.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Vehicle_Configurator.pdb
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BaselineTypeDiscovery.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BCrypt.Net-Next.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\DinkToPdf.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Humanizer.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MailKit.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MimeKit.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Mono.TextTemplating.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\MySqlConnector.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.CodeDom.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Convention.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Hosting.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.Runtime.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.Composition.TypedParts.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.AssemblyReference.cache
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.GeneratedMSBuildEditorConfig.editorconfig
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfoInputs.cache
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.AssemblyInfo.cs
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.csproj.CoreCompileInputs.cache
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cs
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.MvcApplicationPartsAssemblyInfo.cache
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\scopedcss\bundle\Vehicle_Configurator.styles.css
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.development.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssets.props
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.Vehicle_Configurator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.build.Vehicle_Configurator.props
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Vehicle_Configurator.props
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Vehicle_Configurator.props
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.pack.json
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_.F1EE4479.Up2Date
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\refint\Vehicle_Configurator.dll
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.pdb
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\Vehicle_Configurator.genruntimeconfig.cache
+P:\Vehicle_Configurator_Project\project-in-dotnet\Vehicle_Configurator_Backend\Vehicle_Configurator\obj\Debug\net9.0\ref\Vehicle_Configurator.dll
